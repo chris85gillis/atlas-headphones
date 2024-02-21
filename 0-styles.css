@@ -1,0 +1,23 @@
+/* Variables */
+:root {
+  --text-color: #FFF;
+  --font-family-body: 'Source Sans Pro', sans-serif;
+  --color-primary: #FF6565;
+}
+
+/* Base */
+*, *:before, *:after{
+  box-sizing: border-box;  
+}
+html{
+	scroll-behavior: smooth;
+	font-family: var(--font-family-body);
+}
+a: hover, a:active {
+	color: inherit;
+	color: var(--color-primary)
+	cursor: pointer;
+}
+button {
+	
+}
