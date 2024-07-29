@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Atlas%20Headphones&fontColor=FFFFFF" alt="Atlas Headphones"/>
+</div>
+
 # Implement a design
 Figma will be your friend!
 
